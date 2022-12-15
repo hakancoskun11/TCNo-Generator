@@ -7,7 +7,7 @@
 ![Alt text](images/img.png)
 
 ## How does it work ?
-You can clone the project from this repo to your own computer and run this project from within Android Studio.
+You can clone the project from this repo to your own computer and run as a jar file.
 
 
 
